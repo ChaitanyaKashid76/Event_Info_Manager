@@ -1,0 +1,29 @@
+.event{
+     border: solid black  2px;
+    height: 520px;
+    width: 300px;
+    border-radius: 5px;
+}
+.buttons{
+    margin-top: 30px;
+    margin-left: 111px;
+}
+
+ .saveBtn{
+    background-color:green;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+ }
+ .delBtn {
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
